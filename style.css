@@ -32,13 +32,12 @@ nav h1{
     position: absolute;
     top: 20px;
     left: 60px;
-    font-family: cursive;
     font-weight: 900;
 }
 /* Styling of Banner */
 .Banner{
     height: 687px;
-    background-image: url(./assets/ggg.jpg);
+    background-image: url(./Background.jpg);
     background-size: cover;
 }
 .Banner-boxes{
